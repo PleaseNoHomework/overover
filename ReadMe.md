@@ -37,8 +37,15 @@ Unity C#으로 제작한 탑다운 화물 밀기 게임 프로토타입입니다
 ## 설치 방법
 
 1. 이 repository를 clone합니다
+
+
 ```bash
 git clone https://github.com/PleaseNoHomework/overover.git
+```
+
+2. Unity Hub에서 프로젝트를 엽니다
+3. 필요한 패키지들이 자동으로 설치됩니다
+
 
 # 프로젝트 구조
 
