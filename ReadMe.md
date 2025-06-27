@@ -48,7 +48,7 @@ git clone https://github.com/PleaseNoHomework/overover.git
 
 
 # 프로젝트 구조
-
+```
 Assets/
 ├── Scripts/
 │   ├── Core/
@@ -65,6 +65,7 @@ Assets/
 ├── Prefabs/
 ├── Materials/
 └── ...
+```
 
 # 플레이 방법
 
